@@ -1,0 +1,4 @@
+Average population distance from optiumum: 473069714.84003
+STD population distance from optiumum: 841509101.3260707
+Min population distance from optiumum: 263.7298437275091
+Max population distance from optiumum: 2617829997.6436834
